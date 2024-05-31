@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+    "python.languageServer": "Pylance",
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "**/*.html" : "html",
+        "**/templates/**/*.html" : "django-html",
+        "**/templates/**/*" : "django-txt",
+        "**/requirements{/**,*}.{txt,in}" : "pip-requirements"
+    }
+    
+    
+}
